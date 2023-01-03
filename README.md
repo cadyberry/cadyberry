@@ -13,4 +13,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+
+Education
+
+- I am a student earning her M.S. in Data Science with a concentration in Text Analytics, graduating Fall 2023. 
+
+- Completed Courses:
+  - Text Analytics Natural Language Processing 
+  - Predictive Analytics: Classification Methods
+  - Advanced Topics: Python for Statistics
+  - Applied Categorical Data Analysis
+  - Introduction to Bioinformatics
+  - Introduction to Data Science
+
+
