@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-I am a student earning her M.S. in Data Science with a concentration in Text Analytics, graduating Fall 2023. 
+I am a student earning a M.S. in Data Science with a concentration in Text Analytics, graduating Fall 2023. 
 
 Education
 
@@ -27,4 +27,10 @@ Education
   - Introduction to Bioinformatics
   - Introduction to Data Science
 
-
+Skills
+ 
+  - R and Python
+  - Information retrieval
+  - Data wrangling
+  - Model building
+  - Data Visualization
