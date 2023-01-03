@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-Education
+I am a student earning her M.S. in Data Science with a concentration in Text Analytics, graduating Fall 2023. 
 
-- I am a student earning her M.S. in Data Science with a concentration in Text Analytics, graduating Fall 2023. 
+Education
 
 - Completed Courses:
   - Text Analytics Natural Language Processing 
