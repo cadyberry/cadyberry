@@ -3,7 +3,7 @@
 <!--
 **cadyberry/cadyberry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-A student earning a M.S. in Data Science with a concentration in Text Analytics, graduating Fall 2023. 
+Graduate student earning a M.S. in Data Science with a concentration in Text Analytics, graduating Fall 2023. 
 
 Education
 
@@ -20,5 +20,5 @@ Skills
   - R and Python
   - Information retrieval
   - Data wrangling
-  - Classification and regression modeling
+  - Classification and regression model building
   - Data Visualization
