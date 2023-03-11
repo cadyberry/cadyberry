@@ -12,9 +12,7 @@ Completed Courses:
   
 
 Skills:
- 
-  - R and Python
-  - Information retrieval
+  - EDA
   - Data wrangling
-  - Classification and regression model building
+  - Model building
   - Data visualization
