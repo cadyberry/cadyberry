@@ -3,12 +3,11 @@ Graduate student earning a M.S. in data science with a concentration in text ana
 
 
 
-Completed Courses:
-  - Text Analytics Natural Language Processing 
+Relevant Courses:
+  - Text Analytics: Natural Language Processing 
   - Predictive Analytics: Classification Methods
-  - Advanced Topics: Python for Statistics
+  - Python for Statistics
   - Applied Categorical Data Analysis
-  - Introduction to Bioinformatics
   
 
 Skills:
