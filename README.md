@@ -1,17 +1,14 @@
-Graduate student earning a M.S. in data science with a concentration in text analytics. Graduating Fall, 2023. 
+Hello! My name is Acadia and I am a graduate student earning a M.S. in Data Science from Central Connecticut State University, graduating Spring, 2024. 
 
 
 
 
 Relevant Courses:
-  - Text Analytics: Natural Language Processing 
+  - Text Analytics: NLP
   - Predictive Analytics: Classification Methods
+  - Predictive Analytics: Estimation & Clustering 
   - Python for Statistics
   - Applied Categorical Data Analysis
+  - Multivariate Statistics
+    
   
-
-Skills:
-  - EDA
-  - Data wrangling
-  - Model building
-  - Data visualization
