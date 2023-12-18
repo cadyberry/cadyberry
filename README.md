@@ -1,5 +1,5 @@
 # Welcome to Acadia Berry's GitHub!
-![Meta Web Design](https://media.giphy.com/media/S3thLnRWEpRwq6iDIO/giphy.gif)
+
 
 Hey there! 👋 I'm Acadia Berry, a data science enthusiast currently pursuing an M.S. in Data Science at Central Connecticut State University. My journey revolves around extracting insights from data and crafting solutions. Here's a sneak peek into my data-centric endeavors:
 
@@ -49,4 +49,4 @@ Relevant Courses:
   - Applied Categorical Data Analysis
   - Multivariate Statistics
     
-  
+  ![Meta Web Design]([https://media.giphy.com/media/S3thLnRWEpRwq6iDIO/giphy.gif](https://giphy.com/gifs/ioelondon-ucl-ioe-brigitta-zics-JQim3YoU7nKkHas6Uh)https://giphy.com/gifs/ioelondon-ucl-ioe-brigitta-zics-JQim3YoU7nKkHas6Uh)
