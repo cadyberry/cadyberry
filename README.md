@@ -8,11 +8,8 @@ My mission is to harness the power of data science across behavioral analytics, 
 ## Skills
 
 - **Programming Languages:** Python, R, SQL
-- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
-- **Tools:** Jupyter Notebook, SQL Server, Power BI
-- **Health Informatics:** Electronic Health Records (EHR), HL7, FHIR
-Let's connect! Feel free to reach out on [LinkedIn](#).
-
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, tidyverse, caret, ggplot2
+- **Tools:** Jupyter Notebook, SQL Server, Anaconda, Tableau
 
 ## Relevant Courses:
   - Text Analytics: NLP
