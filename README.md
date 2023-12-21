@@ -2,7 +2,7 @@
 
 ## Hello, I'm Acadia Berry
 
-My goal is to harness the power of data science across behavioral analytics, predictive modeling for psychological phenomena and health informatics. This repository showcases projects that have allowed me to develop my skills in data exploration, manipulation, model development and the extraction of valuable insights, bringing me closer to my goal.
+My goal is to harness the power of data science across behavioral analytics. This repository showcases projects that have allowed me to develop my skills in data exploration, manipulation, model development and the extraction of valuable insights, bringing me closer to my goal.
 
 
 ## Skills
