@@ -8,7 +8,7 @@ My goal is to harness the power of data science across behavioral analytics. Thi
 ## Skills
 
 - **Programming Languages:** Python, R, SQL
-- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, tidyverse, caret, ggplot2
+- **Packages:** Pandas, NumPy, Matplotlib, Seaborn, tidyverse, caret, ggplot2
 - **Tools:** Jupyter Notebook, SQL Server, Anaconda, Tableau
 
 ## Relevant Courses:
