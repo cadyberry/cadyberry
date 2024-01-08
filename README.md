@@ -2,7 +2,7 @@
 
 ## Hello, I'm Acadia Berry
 
-Check out my [repository](https://github.com/cadyberry?tab=repositories) which showcases projects that have allowed me to develop my skills in data exploration, manipulation and model development. 
+Check out my [repository](https://github.com/cadyberry?tab=repositories) which showcases the R/Python code for projects that have allowed me to develop my skills in data exploration, manipulation and model development. 
 
 ## Skills
 
