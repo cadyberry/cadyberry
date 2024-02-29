@@ -2,7 +2,7 @@
 
 ## Hello, I'm Acadia Berry
 
-Check out my [repositories](https://github.com/cadyberry?tab=repositories), [project portfolio](https://www.datascienceportfol.io/acadiaberry), or [Rpubs Account](https://rpubs.com/aberry) which showcase the R/Python code for projects that have allowed me to develop skills in data exploration, manipulation and model development. 
+Check out my [repositories](https://github.com/cadyberry?tab=repositories), [project portfolio](https://www.datascienceportfol.io/acadiaberry), or [Rpubs account](https://rpubs.com/aberry) which showcase the R/Python code for projects that have allowed me to develop skills in data exploration, manipulation and model development. 
 
 
 ## Skills
