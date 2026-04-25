@@ -1,9 +1,5 @@
 # Acadia Berry
 
-Software developer and AI engineer based in Brooklyn, NY. I build tools, apps, and models — from in-browser utilities to generative art platforms to data pipelines.
-
----
-
 ## Tools & Utilities
 Projects you can open and use right now, no setup required.
 
