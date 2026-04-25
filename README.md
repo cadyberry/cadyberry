@@ -1,5 +1,3 @@
-# Acadia Berry
-
 ## Tools & Utilities
 Projects you can open and use right now, no setup required.
 
