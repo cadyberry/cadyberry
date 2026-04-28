@@ -1,3 +1,9 @@
+# Acadia Berry
+
+Software developer and AI engineer in Brooklyn. I build tools, ML models, and generative art.
+
+---
+
 ## Tools & Utilities
 Projects you can open and use right now, no setup required.
 
@@ -6,6 +12,7 @@ Projects you can open and use right now, no setup required.
 
 ## Apps
 - **[pixel](https://github.com/cadyberry/pixel)** — Browser-based generative and creative art tools (TypeScript)
+- **[synapse](https://github.com/cadyberry/synapse)** — Local-first Markdown note-taking app with wiki links and D3 knowledge graph (JavaScript)
 - **[prism](https://github.com/cadyberry/prism)** — Social gallery for generative art (Angular + Vercel + Postgres)
 
 ## Data Science
