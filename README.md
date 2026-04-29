@@ -19,7 +19,6 @@ Projects you can open and use right now, no setup required.
 - **[OCR_on_scanned_docs](https://github.com/cadyberry/OCR_on_scanned_docs)** — OCR + NLP pipeline for extracting and analyzing text from scanned documents (Python)
 - **[Dermalogica-NLP](https://github.com/cadyberry/Dermalogica-NLP)** — Sentiment analysis on customer reviews of skincare products (Python, Jupyter)
 - **[high-income-earners](https://github.com/cadyberry/high-income-earners)** — Classification model on US Census data to predict income bracket (Python)
-- **[vectorscope](https://github.com/cadyberry/vectorscope)** — Document search and visualization using semantic embeddings and force-directed graphs (Python)
 
 ---
 
