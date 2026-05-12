@@ -1,6 +1,6 @@
 # Acadia Berry
 
-Software developer and AI engineer in Brooklyn. I build tools, ML models, and generative art.
+Software developer and digital artist in Brooklyn. I build tools, ML models, and generative art.
 
 ---
 
